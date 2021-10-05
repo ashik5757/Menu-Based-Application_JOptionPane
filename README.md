@@ -4,6 +4,7 @@ This is a menu based JOptionePane application for maintaining course information
 
 ## The main menu have the following options :
 
+
   - Add
   - Delete
   - Update
@@ -11,9 +12,11 @@ This is a menu based JOptionePane application for maintaining course information
   - Search
   - EXIT
 
+<br/>
 
 ![image](https://user-images.githubusercontent.com/81816852/136011535-14f19770-20fa-4aad-b164-e2f8042cf463.png)
 
+<br/>
 
 ## For Add option there have three option :
 
@@ -23,20 +26,29 @@ This is a menu based JOptionePane application for maintaining course information
 
 ![image](https://user-images.githubusercontent.com/81816852/136011581-2838dc4c-5849-40bf-9fb7-8694ef326feb.png)
 
+<br/>
+
 > Delete and Update have similar type of option.
 
 ![image](https://user-images.githubusercontent.com/81816852/136013259-12b89db8-ff6f-4fd5-8793-6ea6464b05c9.png)
+
+<br/>
 
 > Print Option
 
 ![image](https://user-images.githubusercontent.com/81816852/136014002-473374de-9bd7-4b67-b019-c1b09bccc132.png)
 
+<br/>
+
 > Search option
 
 ![image](https://user-images.githubusercontent.com/81816852/136014023-b12487a6-4a83-46f3-aa49-c35e2d0efc4f.png)
 
+<br/>
 
 ## Add Option :
+
+<br/>
 
   - ***Add Student*** :
 
@@ -46,6 +58,7 @@ This is a menu based JOptionePane application for maintaining course information
 
   ![image](https://user-images.githubusercontent.com/81816852/136014913-c5835ec0-ea1d-4f15-93a9-eb589fa8e92b.png)
 
+<br/>
 
   - ***Add Course*** :
 
@@ -59,6 +72,7 @@ This is a menu based JOptionePane application for maintaining course information
 
 ![image](https://user-images.githubusercontent.com/81816852/136015120-0dd67417-912d-4000-8277-5ec96bbc55be.png)
 
+<br/>
 
   - ***Add Faculty*** :
 
@@ -70,8 +84,11 @@ This is a menu based JOptionePane application for maintaining course information
 
 ![image](https://user-images.githubusercontent.com/81816852/136016496-99ea4436-39c6-424b-b601-d2bdabcba2fd.png)
 
+<br/>
 
 ## Delete Option :
+
+<br/>
 
   - ***Delete Student*** :
 
@@ -81,6 +98,7 @@ This is a menu based JOptionePane application for maintaining course information
 
 ![image](https://user-images.githubusercontent.com/81816852/136017922-c6685d9a-2be3-42a7-95f4-7022df921c49.png)
 
+<br/>
 
   - ***Delete Course*** :
 
@@ -89,17 +107,23 @@ This is a menu based JOptionePane application for maintaining course information
 
 ![image](https://user-images.githubusercontent.com/81816852/136017950-68b939fb-2771-4433-b7cc-994d34646be3.png)
 
+<br/>
+
   - ***Delete Faculty*** :
 
 ![image](https://user-images.githubusercontent.com/81816852/136017965-069587df-880e-4c2e-9ce3-dc8016deda0f.png)
 
 ![image](https://user-images.githubusercontent.com/81816852/136017977-383d9cf2-c7c6-4637-9cbd-c1252fd1e9a3.png)
 
+<br/>
 
 ## Update option :
 
+<br/>
+
   - ***Update Student*** :
 
+<br/>
 
 ![image](https://user-images.githubusercontent.com/81816852/136018725-cddb53bc-0d1d-4f90-a28a-fa906cffd359.png)
 
@@ -113,6 +137,7 @@ This is a menu based JOptionePane application for maintaining course information
 
 ![image](https://user-images.githubusercontent.com/81816852/136018793-90167825-5a7c-4926-b369-50214145c264.png)
 
+<br/>
 
   - ***Update Course*** :
 
@@ -133,6 +158,7 @@ This is a menu based JOptionePane application for maintaining course information
 
 ![image](https://user-images.githubusercontent.com/81816852/136018966-d3746545-ac33-4981-a031-5d19dbca76ac.png)
 
+<br/>
 
   - ***Update Faculty*** :
 
@@ -144,6 +170,8 @@ This is a menu based JOptionePane application for maintaining course information
 ![image](https://user-images.githubusercontent.com/81816852/136019024-f96d28f4-5400-431a-b9a8-4b481b3e4209.png)
 
 ![image](https://user-images.githubusercontent.com/81816852/136019040-01c9ab6e-2cc4-4d3d-adba-64567011b0c2.png)
+
+<br/>
 
 
 
